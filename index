@@ -65,7 +65,7 @@ Coletados Hoje: <span id="coletados">0</span>
 
 <script>
 
-const API_URL = "COLE_AQUI_SUA_URL_EXEC";
+const API_URL = "https://script.google.com/macros/s/AKfycbwAmySZ8IdCrcpVR8aTWNVf648Utn_gPkDdzZJT30kFNPr4xYZPE-vx9UHjyTmyN4p7yQ/exec";
 
 function postData(data){
   return fetch(API_URL,{
